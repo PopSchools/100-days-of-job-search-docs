@@ -9,5 +9,5 @@
 
 ## Week One - Goal Setting <a id="week-one"></a>
 
-* [Day 1](week-one/day-1.md)
+* [Day 1 - Write a letter to future me](week-one/day-1.md)
 
