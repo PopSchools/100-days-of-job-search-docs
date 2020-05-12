@@ -6,6 +6,7 @@
 
 * [@100dojs on Twitter](https://twitter.com/100dojs)
 * [Get text reminders/prompts](https://remind.com/join/100dojs)
+* [Share your progress](share-your-progress.md)
 
 ## The basics
 
