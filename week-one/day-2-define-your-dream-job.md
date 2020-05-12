@@ -9,7 +9,8 @@ Points to consider:
 * What are your superpowers \(what are you good at + comes naturally to you\)?
   * [https://www.fluxmagazine.com/workplace-superpowers-abilities/](https://www.fluxmagazine.com/workplace-superpowers-abilities/)
   * [https://www.thebalancecareers.com/top-skills-every-professional-needs-to-have-4150386](https://www.thebalancecareers.com/top-skills-every-professional-needs-to-have-4150386)
-* What does a dream job look like to you?
+* What does a dream job look like to you? 
+  * [Example from zeespencer.com](https://www.zeespencer.com/defining-my-dream-job/)
 
 Write it up and publish it somewhere. Link your post to twitter and use the hashtag \#100DaysOfJobSearch
 
