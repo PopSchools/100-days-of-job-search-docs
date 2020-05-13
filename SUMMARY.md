@@ -16,4 +16,5 @@
 
 * [Day 1 - Write a letter to future me](week-one/day-1.md)
 * [Day 2 - Define your dream job](week-one/day-2-define-your-dream-job.md)
+* [Day 3 - Where do you want to work?](week-one/day-3-where-do-you-want-to-work.md)
 
