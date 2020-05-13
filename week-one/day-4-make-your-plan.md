@@ -2,14 +2,15 @@
 
 Now that you have become clear on your vision, and are starting to research companies, let's map out what the next 100 days will look like.
 
-* Create a document or documents that plans your approach
-* A daily or weekly checklist may do the trick
--- Be sure your roadmap includes:
---- **Accountability** -  Reporting your progress 
---- **Action**: Preparing and Applying for Jobs
---- **Feedback and Reflection** -  Reflecting on successes and failures
+Create a document or documents that help you organize and plan your approach.  A daily or weekly **checklist** may do the trick. Be sure your 100 days of job search strategy document includes:
 
-**Tip:**Assign a time duration for each activity so you know how much time you will need and can adjust the strategy if necessary
+* **Accountability** -  Reporting your progress 
+
+* **Action**: Preparing and Applying for Jobs
+
+* **Feedback and Reflection** -  Reflecting on successes and failures
+
+**Tip**: Assign a time duration for each activity so you know how much time you will need and can adjust the strategy if necessary
 
 Keep in mind some activities are high yield and serve several functions - i.e. daily twitter posts and blog posts help you remain accountable but also serve your personal brand. 
 
