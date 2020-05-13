@@ -12,6 +12,10 @@
 
 * [A simple approach to the challenge](the-basics/a-simple-approach-to-the-challenge.md)
 
+## Resource Directory
+
+* [Helpful Resources & Connections](resource-directory/helpful-resources-and-connections.md)
+
 ## Week One - Goal Setting <a id="week-one"></a>
 
 * [Day 1 - Write a letter to future me](week-one/day-1.md)
