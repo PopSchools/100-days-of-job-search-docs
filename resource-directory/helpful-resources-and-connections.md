@@ -8,9 +8,7 @@
 
 * [PopSchools for early and pre-career technologists](https://popschools.club)
 
-### People
-
-#### \(Add yourself if you don't mind connecting\)
+### People \(Add yourself if you don't mind connecting\)
 
 * [Nikema Prophet](https://linkedin.com/in/nikemaprophet)
 
