@@ -1,4 +1,4 @@
-## Day 4 - Make Your Job Search Plan
+# Day 4 - Make Your Job Search Plan
 
 Now that you have become clear on your vision, and are starting to research companies, let's map out what the next 100 days will look like.
 
