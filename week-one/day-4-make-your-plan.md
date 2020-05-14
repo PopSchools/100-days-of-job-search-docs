@@ -15,4 +15,3 @@ Create a document or documents that help you organize and plan your approach.  A
 Keep in mind some activities are high yield and serve several functions - i.e. daily twitter posts and blog posts help you remain accountable but also serve your personal brand. 
 
 Here is a sample checklist: [Job Search Checklist](https://www.evernote.com/shard/s329/sh/a6636879-304c-0006-0b9d-22725cb6b3bc/35d91d1ef43bd8e1ea2d7e78766cd1f0)
- 
