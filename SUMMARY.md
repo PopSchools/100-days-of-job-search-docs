@@ -21,4 +21,5 @@
 * [Day 1 - Write a letter to future me](week-one/day-1.md)
 * [Day 2 - Define your dream job](week-one/day-2-define-your-dream-job.md)
 * [Day 3 - Where do you want to work?](week-one/day-3-where-do-you-want-to-work.md)
-
+* [Day 4 - Make Your Job Search Plan](week-one/day-4-make-your-plan.md)
+* [Day 5 - Job Search Tracker](week-one/day-5-track-your-jobs.md)
