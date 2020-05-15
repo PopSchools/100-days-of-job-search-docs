@@ -7,6 +7,7 @@
 * [@100dojs on Twitter](https://twitter.com/100dojs)
 * [Get text reminders/prompts](https://remind.com/join/100dojs)
 * [Share your progress](join-others-in-the-challenge/share-your-progress.md)
+* [GitHub repository](https://github.com/PopSchools/100-days-of-job-search-docs)
 
 ## The basics
 
