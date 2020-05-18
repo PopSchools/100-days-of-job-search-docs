@@ -15,5 +15,3 @@ The goal deliverables after 100 days:
 * A published portfolio, blog site, or personal website
 * A Twitter "for hire" post
 
-Starting May 11, 2020, a daily blog post will be published at [https://100daysofjobsearch.com](https://100daysofjobsearch.com)
-
