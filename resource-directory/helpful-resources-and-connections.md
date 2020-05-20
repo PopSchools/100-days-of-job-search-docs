@@ -7,6 +7,7 @@
 ### Communities
 
 * [PopSchools for early and pre-career technologists](https://popschools.club)
+* [100dojs team on keybase.io](https://keybase.io/team/100dojs)
 
 ### People \(Add yourself if you don't mind connecting\)
 
